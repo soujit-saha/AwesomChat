@@ -3,8 +3,8 @@
 A modern React Native chat application with offline message queue functionality and simulated real-time messaging.
 
 ## 🎥 Demo
+https://github.com/user-attachments/assets/cca6366a-1848-49bf-9b80-a5e892ff4f8c
 
-https://github.com/user-attachments/assets/Demo_Chat_App.mp4
 
 > **Note:** If the video doesn't play above, you can view it directly in the [`demo/Demo_Chat_App.mp4`](./demo/Demo_Chat_App.mp4) file.
 
